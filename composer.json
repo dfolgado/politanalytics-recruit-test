@@ -13,6 +13,7 @@
     "doctrine/doctrine-migrations-bundle": "^3.3",
     "doctrine/orm": "^2.17",
     "symfony/console": "6.3.*",
+    "symfony/css-selector": "6.3.*",
     "symfony/dom-crawler": "6.3.*",
     "symfony/dotenv": "6.3.*",
     "symfony/flex": "^2",

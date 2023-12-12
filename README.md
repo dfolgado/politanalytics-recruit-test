@@ -1,6 +1,6 @@
 # PolitAnalytics AG backend test
 
-## Task 1
+## Instructions
 
 0. Clone the project: [PolitAnalytics backend test repository](https://github.com/dfolgado/politanalytics-recruit-test).
 1. Run this command in the CLI for install the dependencies with composer:
